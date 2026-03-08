@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jayashri 👋
 
-<!--
-**jayashri-ece/jayashri-ece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering (ECE) Student  
+🔧 Interested in Electronics, IoT, Embedded Systems and Wireless Communication  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- Hand Gesture Control Car using ESP32
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎤 Other Interests
+- Classical Singer
+- State level yoga player
+- Winner of Multiple Singing and yoga Competitions  
+
+## 🌱 Currently Learning
+- Arduino and ESP32 Projects  
+- IoT Systems  
+- Wireless Communication
